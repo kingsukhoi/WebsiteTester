@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteTester.Selenium", "WebSiteTester.Selenium\WebSiteTester.Selenium.csproj", "{933D1129-C426-4E6A-B98D-935B3CA1CAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteTester.CLI", "WebSiteTester.CLI\WebSiteTester.CLI.csproj", "{81A5A862-E6B1-4B5B-9666-CC78A610063F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933D1129-C426-4E6A-B98D-935B3CA1CAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933D1129-C426-4E6A-B98D-935B3CA1CAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933D1129-C426-4E6A-B98D-935B3CA1CAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933D1129-C426-4E6A-B98D-935B3CA1CAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A5A862-E6B1-4B5B-9666-CC78A610063F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A5A862-E6B1-4B5B-9666-CC78A610063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A5A862-E6B1-4B5B-9666-CC78A610063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A5A862-E6B1-4B5B-9666-CC78A610063F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
